@@ -8,8 +8,8 @@ Tryk "Sign Up" og udfyld data.
 STEP 1 - Download og instalér Touch Finder
 Gå til: http://www.omron-cxone.com/vision_sys 
 Brug følgende:
-  Licence no: 1609238999416099 
-  Product key: 8121306
+  Licence no:  
+  Product key: 
 Download den øverste version.
 Instalér programmet.
 
