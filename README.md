@@ -10,6 +10,7 @@ Gå til: http://www.omron-cxone.com/vision_sys
 Brug følgende:
   Licence no:  
   Product key: 
+  (Du finder dem her: Teams > AUTA-CSD-23-notesbogen > General information > Omron FQ2)
 Download den øverste version.
 Instalér programmet.
 
